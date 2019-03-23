@@ -1,0 +1,8 @@
+games
+0
+wins
+0
+loses
+0
+win ratio
+0.9974388824214202
